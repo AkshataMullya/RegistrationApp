@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Registration</title>
+<title>Registration Poll</title>
 </head>
 <style>
 	form {
