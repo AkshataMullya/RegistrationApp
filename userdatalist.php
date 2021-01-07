@@ -9,7 +9,7 @@ table, th, td {
 </head>
 <body>
 <?php
-$conn = mysqli_connect("database1.cikrt1wxrd3j.us-east-1.rds.amazonaws.com:3306","admin","^TFGHY6tfghy");
+$conn = mysqli_connect("cr1bzd7o211dadk.cikrt1wxrd3j.us-east-1.rds.amazonaws.com:3306","admin","^TFGHY6tfghy");
 mysqli_select_db($conn,'studentdb');
 $sql = "SELECT * FROM student";
 $result = mysqli_query($conn,$sql);
