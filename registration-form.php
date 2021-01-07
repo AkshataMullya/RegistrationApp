@@ -66,7 +66,7 @@ button:hover {
     }*/
     </script>
 <center>
-    <h1>Registratio</h1>
+    <h1>Registration</h1>
 <form action="" method="POST" enctype="multipart/form-data">
 <div class="container">
     <label for="fname"><b>First Name</b></label>
