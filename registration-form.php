@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Registration Page</title>
+<title>Registration</title>
 </head>
 <style>
 	form {
