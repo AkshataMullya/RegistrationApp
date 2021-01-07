@@ -1,7 +1,7 @@
 <?php
 /*	include($_SERVER['DOCUMENT_ROOT'].'/lib/bj-vars.php');*/
 
-	$mysqlConn=mysqli_connect('database1.cikrt1wxrd3j.us-east-1.rds.amazonaws.com:3306','admin','^TFGHY6tfghy');
+	$mysqlConn=mysqli_connect('cr1bzd7o211dadk.cikrt1wxrd3j.us-east-1.rds.amazonaws.com:3306','admin','^TFGHY6tfghy');
 	/*$txtDataName=isset($_FILES['select']['name'])?$_FILES['select']['name']:'';*/
 	$firstName=isset($_POST['fnm'])?$_POST['fnm']:'';	
 	$lastName=isset($_POST['lnm'])?$_POST['lnm']:'';	
